@@ -6,6 +6,7 @@
 
 # VS Code stuff
 .vscode/
+.vscode/settings.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -181,4 +182,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-.vscode/settings.json
+
